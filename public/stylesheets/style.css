@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.margin {
+  margin: 15px;
+}
+
+.create-btn {
+  margin: 15px 38px;
+}
+
+textarea {
+  resize: none;
+  width: 36%;
+}
+
+.footer {
+  margin: 15px;
+}
+
+.comment-text {
+  margin-top: 15px;
+}

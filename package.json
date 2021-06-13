@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/MackFolds/tech-blog/issues"
   },
-  "homepage": "https://github.com/MackFolds/tech-blog#readme"
+  "homepage": "https://github.com/MackFolds/tech-blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.1",

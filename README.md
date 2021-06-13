@@ -11,7 +11,7 @@
   * [Questions](#questions)
   
   ## Installation
-  npm install in the terminal is the only instruction needed to run
+  Enter 'npm install' in the root directory in the terminal 
   ## Usage
   ## Languages
   JavaScript<br>HTML<br>CSS<br>ES6
@@ -21,7 +21,7 @@
   ## License
   https://choosealicense.com/licenses/mit/
   ## Tests
-  none
+  In the terminal in the root directory type 'npm test'
   ## Questions:
   If you have any questions please contact us or refer to our github below:
   Email Us At: MackFoldsIII@gmail.com
